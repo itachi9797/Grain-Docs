@@ -1,0 +1,40 @@
+input: .
+output: .retype
+url: grainbot.tech
+branding:
+  title: Grain
+  label: Docs
+  logo: public/img/grain.png
+breadcrumb:
+  home: ":icon-home:" # icon
+links:
+- text: Home
+  link: /
+  icon: Home
+- text: Website
+  link: https://grainbot.tech
+  icon: Server
+- text: Github
+  link: https://github.com/sikey-dev
+  icon: mark-github
+- text: Invite Me
+  link: https://canary.discord.com/api/oauth2/authorize?client_id=1088487702896332912&permissions=8&scope=applications.commands%20bot
+  icon: rocket
+- text: Support Server
+  link: https://discord.gg/aZKtu273r7
+  icon: Server
+footer:
+  copyright: "© Copyright {{ year }}. [Grain, Inc.](https://grainbot.tech/) All rights reserved."
+  links:
+  - text: Website
+    link: https://grainbot.tech
+    icon: Server
+  - text: Github
+    link: https://github.com/sikey-dev
+    icon: mark-github
+  - text: Invite Me
+    link: https://canary.discord.com/api/oauth2/authorize?client_id=1088487702896332912&permissions=8&scope=applications.commands%20bot
+    icon: rocket
+  - text: Support Server
+    link: https://discord.gg/aZKtu273r7
+    icon: Server
