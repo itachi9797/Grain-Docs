@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grainbot.tech/sitemap.xml.gz
